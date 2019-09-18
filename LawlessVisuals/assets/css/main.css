@@ -2443,7 +2443,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-
+    width: auto;
 
   }
   #header > .logo > img{
@@ -2654,7 +2654,7 @@ body {
     box-shadow: 0px 0px 4px 1px rgba(255, 255, 255, 0.025); }
     #heading .testimonials .content .credit strong {
       color: #ce1b28; }
-  #heading:before {  
+  #heading:before {
     content: ' ';
     display: block;
     height: 100%;
